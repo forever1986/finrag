@@ -1,0 +1,11 @@
+text_files_path = 'data/pdf_txt_file'
+company_save_path = 'data/txtfile2company.csv'
+question_path = 'data/question.json'
+pkl_save_path = 'data/embedding_vector'
+faiss_save_path = "data/embedding_index"
+sql_examples_path = "data/ICL_EXP.csv"
+question_classify_path = "data/question_classify.csv"
+question_sql_path = "data/question_sql.csv"
+question_sql_check_path = "data/question_sql_check.csv"
+answer_path = "data/answer.csv"
+model_tokenizer_path = "model/TongyiFinance/Tongyi-Finance-14B-Chat"
