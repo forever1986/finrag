@@ -1,4 +1,4 @@
-# 一个基于https://tianchi.aliyun.com/competition/entrance/532164/information比赛的项目
+# 一个基于“2023博金大模型挑战赛”的比赛项目，比赛地址：https://tianchi.aliyun.com/competition/entrance/532164/information
 
 1.通过运行fin_agent.py，可以进行问题查询
 2.pdf_retrieve_chain.py是pdf检索的工具方法所在
